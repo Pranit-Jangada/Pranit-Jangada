@@ -1,15 +1,6 @@
-Hi 👋 My name is Pranit Jangada
-===============================
+
 
 Salesforce Developer
---------------------
-
-~ Experienced in salesforce development, configuration, and customization. ~ Extensive experience in Apex Programming, Lightning Aura components, Lightning Web Components, JavaScript, Triggers, Batch, Workflows, Page Layouts, Roles, Profiles, Communities, Knowledge Base, Custom Objects, Junction Objects, Tabs, Fields, Page Layouts, Record types, and maintaining Relationships between objects. ~ Experience in Salesforce DX – Salesforce Developer Experience, Salesforce DX live Debugging, Salesforce CLI, GIT. ~ Experience in working with Debug Apex Scripts using Debug Logs and System Log Console to catch Exceptions and execute Governor Limits. ~ Worked on ANT tool, Jenkins, Azure DevOps, GitHub, VS code and developing and uploading packages. ~ Have worked on designing Salesforce.com Sales Cloud, Service Cloud, and Community based solutions. ~ Platform developer 1 certified.
-
-* 🌍  I'm based in Pune, MH INDIA
-* 🖥️  See my portfolio at [Trailhead Profile](http://trailblazer.me/id/pjangada)
-* ✉️  You can contact me at [pranitjangada.sfdc@gmail.com](mailto:pranitjangada.sfdc@gmail.com)
-* 🧠  I'm learning Lightning Web Component, Salesforce Einstein
 
 ### Skills
 
